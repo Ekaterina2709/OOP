@@ -1,4 +1,3 @@
-
 public class Monk extends Healers {
     
     public Monk (String name){
